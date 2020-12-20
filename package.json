@@ -1,0 +1,28 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Reviewing TDD concepts over JS",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelGomes/js-tdd.git"
+  },
+  "keywords": [
+    "jss",
+    "tdd",
+    "review"
+  ],
+  "author": "Michel Gomes <gomes.michel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichelGomes/js-tdd/issues"
+  },
+  "homepage": "https://github.com/MichelGomes/js-tdd#readme"
+}
