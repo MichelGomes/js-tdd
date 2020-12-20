@@ -13,6 +13,7 @@
   },
   "scripts": {
     "lint":"node_modules\\.bin\\eslint src/*.js",
+    "pre-push":"npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
