@@ -1,40 +1,26 @@
 # Project Title
 
-One Paragraph of project description goes here
+One Paragraph of the project description
 
-This initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
-
-## Summary
-
-  - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+Initially appeared on
+[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on
+These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+for notes on deploying the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-    Give examples
+Requirements for the software and other tools to build, test and push 
+- [Example 1](https://www.example.com)
+- [Example 2](https://www.example.com)
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development
-env running
+environment running
 
 Say what the step will be
 
@@ -51,21 +37,21 @@ for a little demo
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### Sample Tests
 
 Explain what these tests test and why
 
     Give an example
 
-### And coding style tests
+### Style test
 
-Explain what these tests test and why
+Checks if the best practices and the right coding style has been used.
 
     Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes to deploy this on a live system
 
 ## Built With
 
@@ -81,7 +67,7 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
 available, see the [tags on this
 repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
@@ -102,6 +88,7 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code was used
+  - Hat tip to anyone whose code is used
   - Inspiration
   - etc
+
